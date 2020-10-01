@@ -1,0 +1,23 @@
+{
+  "name": "web-refactoring-setup",
+  "version": "0.1.0",
+  "description": "[WORKSHOP] Setup - Web Refactoring into Testability",
+  "main": "index.html",
+  "dependencies": {
+    "talk-o-vision": "github:thirstyhead/talk-o-vision"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThirstyHead/web-refactoring-setup.git"
+  },
+  "author": "Scott Davis <scott@thirstyhead.com>",
+  "license": "CC-BY-4.0",
+  "bugs": {
+    "url": "https://github.com/ThirstyHead/web-refactoring-setup/issues"
+  },
+  "homepage": "https://github.com/ThirstyHead/web-refactoring-setup#readme"
+}
